@@ -1,0 +1,1 @@
+git add . śledzi wszystkie pliki(dodaje do poczekalni) w obecnym katalogu i niżej, mając na uwadze  filtry z .gitignore
